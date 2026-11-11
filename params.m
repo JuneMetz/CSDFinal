@@ -12,5 +12,5 @@ p.kD=0.25;
 
 p.mp=0.1;                       % not given
 p.ell=0.5;                      % not given
-p.omegaMax=500^2;               % slide 37
+p.omegaMax=500.0^2;             % slide 37
 p.Ts=0.01;                      % slide 44
